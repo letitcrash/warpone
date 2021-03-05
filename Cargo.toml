@@ -18,7 +18,7 @@ shrinkwraprs = "0.3.0"
 chrono = { version = "0.4.19", features = ["serde"] }
 uuid = { version = "0.8.1", features = ["serde", "v4"] }
 unicode-width = "0.1.8"
-rand = "0.7.3"
+rand = "0.8.3"
 futures = "0.3.5"
 tokio = { version = "0.2.21", features = ["full"] }
 warp = "0.2.5"
